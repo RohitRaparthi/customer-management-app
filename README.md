@@ -1,4 +1,4 @@
-# Customer CRUD Application
+# Customer Management Application
 
 A full-stack web application for managing customers and their multiple addresses, built with React.js, Node.js, Express.js, and SQLite.
 
